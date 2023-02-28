@@ -10,8 +10,7 @@ import org.springframework.web.bind.annotation.PathVariable;
  * 房屋信息 服务类
  * </p>
  *
- * @author 
- * @since 2023-02-28
+ * @author
  */
 public interface HouseService {
 

@@ -10,8 +10,7 @@ import org.apache.ibatis.annotations.Mapper;
  * 安全通道 Mapper 接口
  * </p>
  *
- * @author 
- * @since 2023-02-28
+ * @author
  */
 @Mapper
 public interface AccessMapper extends BaseMapper<Access> {

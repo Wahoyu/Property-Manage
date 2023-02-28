@@ -9,8 +9,7 @@ import com.property.entity.Parking_place;
  * 停车位 服务类
  * </p>
  *
- * @author 
- * @since 2023-02-28
+ * @author
  */
 public interface Parking_placeService {
 

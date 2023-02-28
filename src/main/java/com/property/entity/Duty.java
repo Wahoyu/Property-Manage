@@ -12,7 +12,6 @@ import lombok.Data;
  * </p>
  *
  * @author 
- * @since 2023-02-28
  */
 
 @Data

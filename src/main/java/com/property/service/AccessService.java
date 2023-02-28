@@ -9,8 +9,7 @@ import com.property.entity.Access;
  * 安全通道 服务类
  * </p>
  *
- * @author 
- * @since 2023-02-28
+ * @author
  */
 public interface AccessService {
 

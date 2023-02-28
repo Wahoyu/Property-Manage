@@ -9,8 +9,7 @@ import com.property.entity.Inform;
  * 通知条 服务类
  * </p>
  *
- * @author 
- * @since 2023-02-28
+ * @author
  */
 public interface InformService {
 

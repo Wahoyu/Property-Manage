@@ -8,8 +8,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 业主 服务类
  * </p>
  *
- * @author 
- * @since 2023-02-28
+ * @author
  */
 public interface OwnerService {
 

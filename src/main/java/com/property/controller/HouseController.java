@@ -14,7 +14,6 @@ import org.springframework.stereotype.Controller;
  * </p>
  *
  * @author 
- * @since 2023-02-28
  */
 @RestController
 @RequestMapping("/house")

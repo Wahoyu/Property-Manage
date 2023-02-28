@@ -9,8 +9,7 @@ import org.apache.ibatis.annotations.Mapper;
  * 超级管理员 Mapper 接口
  * </p>
  *
- * @author 
- * @since 2023-02-28
+ * @author
  */
 
 @Mapper

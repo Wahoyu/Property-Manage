@@ -12,8 +12,7 @@ import org.springframework.stereotype.Service;
  * 安全通道 服务实现类
  * </p>
  *
- * @author 
- * @since 2023-02-28
+ * @author
  */
 @Service
 public class AccessServiceImpl implements AccessService {

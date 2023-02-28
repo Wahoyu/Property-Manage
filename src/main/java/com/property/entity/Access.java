@@ -11,7 +11,6 @@ import lombok.Data;
  * </p>
  *
  * @author 
- * @since 2023-02-28
  */
 @Data
 @ApiModel(value="Access对象", description="安全通道")
